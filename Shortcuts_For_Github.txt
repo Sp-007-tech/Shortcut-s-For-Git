@@ -1,0 +1,37 @@
+👉 Repositories keyboard Shortcuts 
+
+➡️ gi  ------ Go to "Issue"
+
+
+➡️ gb ------ Go to "Projects "
+
+
+➡️ gn ------ Go to "Notification "
+
+
+➡️ gp ------ Go to "Pull Request"
+
+
+➡️ ga ------ Go to "Action"
+
+
+➡️ gc ------ Go to "Code"
+
+
+➡️ gw ------ Go to "Wiki"
+
+
+➡️ gg ----- Go to "Discussion"
+
+
+➡️ gd ------ Go to "Dashboard"
+
+
+➡️ ctrl + k -----  Open command palette
+
+
+➡️ ctrl + shift + k ------ Open command palette in command mode
+
+
+➡️ s or / ------ Open search bar
+
